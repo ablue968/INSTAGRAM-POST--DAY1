@@ -1,0 +1,42 @@
+body {
+    background: black;
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+.post {
+    height: 600px;
+    width: 450px;
+    background: white;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px 15px 0px 10px;
+}
+
+.text{
+    padding: 6px;
+}
+
+p{
+    padding-top:15px;
+    margin:0px;
+}
+
+.image{
+    height: 60%;
+    width: inherit;
+}
+.to_the_right{
+    margin-left: auto;
+}
+
+.globe{
+    margin: 10px;
+}
+
